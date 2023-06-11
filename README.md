@@ -16,6 +16,11 @@ python digital_clock.py
 
 The clock will be displayed on the screen, showing the current time. You can customize the time format by modifying the code in the script. Feel free to explore and make any necessary adjustments to suit your preferences.
 
+RESULT:
+
+![Clock 11-06-2023 13_20_04](https://github.com/saikiran5555/digitalclock/assets/116197365/414f5463-0c71-4a16-862c-ed1a9c4aee22)
+
+
 CONTRIBUTIONS AND FEEDBACKS:
 
 Contributions are welcome! If you have any ideas, bug fixes, or enhancements, please submit a pull request. Make sure to follow the existing code style and provide detailed information about your changes.
